@@ -1,8 +1,8 @@
 // an array that holds all of the friends data
 var friendsData = [
 	{
-		"name": "Dodo",
-		"photo": "http://www.nike-shoes.net.au/wp-content/uploads/2017/09/Cats3.jpg",
+		"name": "Darly",
+		"photo": "https://vetstreet.brightspotcdn.com/dims4/default/d97d0b5/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fb8%2Fb64ed0a8b411e0a0d50050568d634f%2Ffile%2Fgoldendoodle-4-645mk070111.jpg",
 		"scores": [
 			3,
 			4,
@@ -17,8 +17,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Cinnamon",
-		"photo": "http://images.mentalfloss.com/sites/default/files/styles/insert_main_wide_image/public/istock_000049345960_small.jpg",
+		"name": "Max",
+		"photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwie-_ynu6bjAhWGHc0KHeF-AlcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Faustralian-shepherd%2F&psig=AOvVaw37UE2JEEiBUhdrOAnfIgnF&ust=1562714500917145",
 		"scores": [
 			2,
 			3,
@@ -33,8 +33,8 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Bebe",
-		"photo": "https://ecophiles.com/wp-content/uploads/2017/03/Be%CC%81be%CC%81_Phoque_de_Weddell_-_Baby_Weddell_Seal-759x500.jpg?189db0",
+		"name": "Bev0",
+		"photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjh9Jazu6bjAhXBF80KHeTSApIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.dailytexanonline.com%2F2018%2F10%2F11%2Fbevo%25E2%2580%2599s-horns-grow-16-inches-in-two-years&psig=AOvVaw3lHr8I8gyLaG-N2MYJlQhW&ust=1562714524450691",
 		"scores": [
 			1,
 			4,
@@ -48,54 +48,8 @@ var friendsData = [
 			4
 		]
 	},
-	{
-		"name": "Spaz",
-		"photo": "http://cdn.pcwallart.com/images/basset-hound-running-wallpaper-3.jpg",
-		"scores": [
-			1,
-			2,
-			1,
-			2,
-			1,
-			2,
-			2,
-			1,
-			2,
-			1
-		]
-	},
-	{
-		"name": "Pupperz",
-		"photo": "https://i.pinimg.com/736x/9d/34/e8/9d34e89188d5ee22ea443c61e7162437--baby-beagle-beagle-pups.jpg",
-		"scores": [
-			4,
-			5,
-			5,
-			4,
-			5,
-			4,
-			5,
-			4,
-			5,
-			5
-		]
-	},
-	{
-		"name": "Sunny",
-		"photo": "https://pbs.twimg.com/profile_images/446566229210181632/2IeTff-V.jpeg",
-		"scores": [
-			4,
-			5,
-			5,
-			3,
-			5,
-			4,
-			5,
-			2,
-			1,
-			5
-		]
-	}
+	
+
 ];
 
 module.exports = friendsData;
