@@ -18,7 +18,7 @@ var friendsData = [
 	},
 	{
 		"name": "Max",
-		"photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwie-_ynu6bjAhWGHc0KHeF-AlcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Faustralian-shepherd%2F&psig=AOvVaw37UE2JEEiBUhdrOAnfIgnF&ust=1562714500917145",
+		"photo": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03173132/Australian-Shepherd.1.jpg",
 		"scores": [
 			2,
 			3,
@@ -34,7 +34,7 @@ var friendsData = [
 	},
 	{
 		"name": "Bev0",
-		"photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjh9Jazu6bjAhXBF80KHeTSApIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.dailytexanonline.com%2F2018%2F10%2F11%2Fbevo%25E2%2580%2599s-horns-grow-16-inches-in-two-years&psig=AOvVaw3lHr8I8gyLaG-N2MYJlQhW&ust=1562714524450691",
+		"photo": "https://www.dailytexanonline.com/sites/default/files/styles/article_main_image/public/images/2018/10/Bevo2018-09_24_TEXAS_V_TCU_Anthony.Mireles19583%20copy.jpg?itok=nzb9ufT7",
 		"scores": [
 			1,
 			4,
