@@ -1,1 +1,2 @@
 # Friend-Finder
+Friend Finder is a full-stack application for users to find their new best friend based on a 10 question survey. The app will take in users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.

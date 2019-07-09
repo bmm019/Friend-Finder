@@ -33,7 +33,7 @@ var friendsData = [
 		]
 	},
 	{
-		"name": "Bev0",
+		"name": "Bevo",
 		"photo": "https://www.dailytexanonline.com/sites/default/files/styles/article_main_image/public/images/2018/10/Bevo2018-09_24_TEXAS_V_TCU_Anthony.Mireles19583%20copy.jpg?itok=nzb9ufT7",
 		"scores": [
 			1,
